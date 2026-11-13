@@ -1,6 +1,6 @@
 # Hi, I'm Lucas
 
-I lead web development and design at [Dynatrace](https://www.dynatrace.com). My team of 6 developers, designers and QA engineers builds and runs [dynatrace.com](https://www.dynatrace.com) and the marketing web platform behind it.
+I lead web development and design at Dynatrace. My team of 6 developers, designers and QA engineers builds and runs [dynatrace.com](https://www.dynatrace.com) and the marketing web platform behind it.
 
 - **dynatrace.com:** statically generated, hosted on AWS, 10 languages, 99.9% availability
 - **~120 CMS authors** across marketing publish their own pages, live in 15 minutes
